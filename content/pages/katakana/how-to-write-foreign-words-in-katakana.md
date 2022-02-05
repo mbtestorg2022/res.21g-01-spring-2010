@@ -26,24 +26,225 @@ Other rules (such as those for double consonants, consonant + y + vowel) are exa
 
 In addition, katakana has a few more combinations of symbols than hiragana does. Some additional symbols are listed below; these are a device used to suggest the closest pronunciation of the foreign word in question.
 
-| ti | ティ | ティー (tea) |
-| di | ディ | ディスコ (disco) |
-| du | デュ | デューク (duke) |
-| tsa | ツァ | ピッツァ (pizza) |
-| fa | ファ | ファイト (fight) |
-| fi | フィ | フィート (feet) |
-| fe | フェ | フェンス (fence) |
-| fo | フォ | フォード (ford) |
-| va | ヴァ | ヴァイオリン (violin) |
-| vi | ヴィ | ヴィーナス (Venus) |
-| ve | ヴェ | ヴェニス (Venice) |
-| vo | ヴォ | ヴォーカル (vocal) |
-| wi | ウィ | ウィスコンシン (Wisconsin) |
-| we | ウェ | ウェスタン (Western) |
-| wo | ウォ | ウォーター (water) |
-| qui | クィ | クィーン (queen) |
-| que | クェ | クェーカー (Quaker) |
-| quo | クォ | クォーター (quarter) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ti
+{{< tdclose >}}
+{{< tdopen >}}
+ティ
+{{< tdclose >}}
+{{< tdopen >}}
+ティー (tea)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+di
+{{< tdclose >}}
+{{< tdopen >}}
+ディ
+{{< tdclose >}}
+{{< tdopen >}}
+ディスコ (disco)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+du
+{{< tdclose >}}
+{{< tdopen >}}
+デュ
+{{< tdclose >}}
+{{< tdopen >}}
+デューク (duke)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+tsa
+{{< tdclose >}}
+{{< tdopen >}}
+ツァ
+{{< tdclose >}}
+{{< tdopen >}}
+ピッツァ (pizza)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fa
+{{< tdclose >}}
+{{< tdopen >}}
+ファ
+{{< tdclose >}}
+{{< tdopen >}}
+ファイト (fight)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fi
+{{< tdclose >}}
+{{< tdopen >}}
+フィ
+{{< tdclose >}}
+{{< tdopen >}}
+フィート (feet)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fe
+{{< tdclose >}}
+{{< tdopen >}}
+フェ
+{{< tdclose >}}
+{{< tdopen >}}
+フェンス (fence)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+fo
+{{< tdclose >}}
+{{< tdopen >}}
+フォ
+{{< tdclose >}}
+{{< tdopen >}}
+フォード (ford)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+va
+{{< tdclose >}}
+{{< tdopen >}}
+ヴァ
+{{< tdclose >}}
+{{< tdopen >}}
+ヴァイオリン (violin)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+vi
+{{< tdclose >}}
+{{< tdopen >}}
+ヴィ
+{{< tdclose >}}
+{{< tdopen >}}
+ヴィーナス (Venus)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ve
+{{< tdclose >}}
+{{< tdopen >}}
+ヴェ
+{{< tdclose >}}
+{{< tdopen >}}
+ヴェニス (Venice)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+vo
+{{< tdclose >}}
+{{< tdopen >}}
+ヴォ
+{{< tdclose >}}
+{{< tdopen >}}
+ヴォーカル (vocal)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+wi
+{{< tdclose >}}
+{{< tdopen >}}
+ウィ
+{{< tdclose >}}
+{{< tdopen >}}
+ウィスコンシン (Wisconsin)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+we
+{{< tdclose >}}
+{{< tdopen >}}
+ウェ
+{{< tdclose >}}
+{{< tdopen >}}
+ウェスタン (Western)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+wo
+{{< tdclose >}}
+{{< tdopen >}}
+ウォ
+{{< tdclose >}}
+{{< tdopen >}}
+ウォーター (water)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+qui
+{{< tdclose >}}
+{{< tdopen >}}
+クィ
+{{< tdclose >}}
+{{< tdopen >}}
+クィーン (queen)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+que
+{{< tdclose >}}
+{{< tdopen >}}
+クェ
+{{< tdclose >}}
+{{< tdopen >}}
+クェーカー (Quaker)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+quo
+{{< tdclose >}}
+{{< tdopen >}}
+クォ
+{{< tdclose >}}
+{{< tdopen >}}
+クォーター (quarter)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[[Home]({{< baseurl >}}/pages/katakana)\]

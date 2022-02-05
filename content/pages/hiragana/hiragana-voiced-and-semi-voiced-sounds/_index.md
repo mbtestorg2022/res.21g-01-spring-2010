@@ -22,13 +22,138 @@ The syllables beginning with /p/ are called the "semivoiced" counterparts of /b/
 
 Follow the links in the table below to see brush-stroke and printed versions of the characters, and some usage examples of each.
 
-| &nbsp; | a | i | u | e | o |
-| --- | --- | --- | --- | --- | --- |
-| /g/ | [が]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ga) | [ぎ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gi) | [ぐ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gu) | [げ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ge) | [ご]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-go) |
-| /z/ | [ざ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-za) | [じ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zi-ji) | [ず]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu) | [ぜ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ze) | [ぞ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zo) |
-| /d/ | [だ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da) | [ぢ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ji) | [づ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu-1) | [で]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da) | [ど]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-do) |
-| /b/ | [ば]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ba) | [び]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bi) | [ぶ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bu) | [べ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-be) | [ぼ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bo) |
-| /p/ | [ぱ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pa) | [ぴ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pi) | [ぷ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pu) | [ぺ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pe) | [ぽ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-po) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+a
+{{< tdclose >}}
+{{< tdopen >}}
+i
+{{< tdclose >}}
+{{< tdopen >}}
+u
+{{< tdclose >}}
+{{< tdopen >}}
+e
+{{< tdclose >}}
+{{< tdopen >}}
+o
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/g/
+{{< tdclose >}}
+{{< tdopen >}}
+[が]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ga)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぎ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gi)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぐ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-gu)
+{{< tdclose >}}
+{{< tdopen >}}
+[げ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ge)
+{{< tdclose >}}
+{{< tdopen >}}
+[ご]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-go)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/z/
+{{< tdclose >}}
+{{< tdopen >}}
+[ざ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-za)
+{{< tdclose >}}
+{{< tdopen >}}
+[じ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zi-ji)
+{{< tdclose >}}
+{{< tdopen >}}
+[ず]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぜ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ze)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぞ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/d/
+{{< tdclose >}}
+{{< tdopen >}}
+[だ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぢ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ji)
+{{< tdclose >}}
+{{< tdopen >}}
+[づ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-zu-1)
+{{< tdclose >}}
+{{< tdopen >}}
+[で]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-da)
+{{< tdclose >}}
+{{< tdopen >}}
+[ど]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-do)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/b/
+{{< tdclose >}}
+{{< tdopen >}}
+[ば]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-ba)
+{{< tdclose >}}
+{{< tdopen >}}
+[び]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bi)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぶ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bu)
+{{< tdclose >}}
+{{< tdopen >}}
+[べ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-be)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぼ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-bo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+/p/
+{{< tdclose >}}
+{{< tdopen >}}
+[ぱ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pa)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぴ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pi)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぷ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぺ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-pe)
+{{< tdclose >}}
+{{< tdopen >}}
+[ぽ]({{< baseurl >}}/pages/hiragana/hiragana-voiced-and-semi-voiced-sounds/hiragana-po)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[[Home]({{< baseurl >}}/pages/hiragana)\]  

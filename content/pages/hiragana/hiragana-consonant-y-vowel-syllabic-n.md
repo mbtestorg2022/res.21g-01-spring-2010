@@ -11,15 +11,108 @@ Consonant + y + Vowel
 
 The Japanese consonant sounds are combined with the /ya/, /yu/ and /yo/ syllables to form a single contracted syllable. For example, /ki/ and /ya/ combine to form the single syllable /kya/, represented in hiragana as きゃ. See the following chart for the complete list of these contracted syllables.
 
-| Consonant/i/ + /ya/ | Consonant/i/ + /yu/ | Consonant/i/ + /yo/ |
-| --- | --- | --- |
-| きゃ kya | きゅ kyu | きょ kyo |
-| しゃ sya (sha) | しゅ syu (shu) | しょ syo (sho) |
-| ちゃ tya (cha) | ちゅ tyu (chu) | ちょ tyo (cho) |
-| にゃ nya | にゅ nyu | にょ nyo |
-| ひゃ hya | ひゅ hyu | ひょ hyo |
-| みゃ mya | みゅ myu | みょ myo |
-| りゃ rya | りゅ ryu | りょ ryo 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Consonant/i/ + /ya/
+{{< thclose >}}
+{{< thopen >}}
+Consonant/i/ + /yu/
+{{< thclose >}}
+{{< thopen >}}
+Consonant/i/ + /yo/
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+きゃ kya
+{{< tdclose >}}
+{{< tdopen >}}
+きゅ kyu
+{{< tdclose >}}
+{{< tdopen >}}
+きょ kyo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+しゃ sya (sha)
+{{< tdclose >}}
+{{< tdopen >}}
+しゅ syu (shu)
+{{< tdclose >}}
+{{< tdopen >}}
+しょ syo (sho)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ちゃ tya (cha)
+{{< tdclose >}}
+{{< tdopen >}}
+ちゅ tyu (chu)
+{{< tdclose >}}
+{{< tdopen >}}
+ちょ tyo (cho)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+にゃ nya
+{{< tdclose >}}
+{{< tdopen >}}
+にゅ nyu
+{{< tdclose >}}
+{{< tdopen >}}
+にょ nyo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ひゃ hya
+{{< tdclose >}}
+{{< tdopen >}}
+ひゅ hyu
+{{< tdclose >}}
+{{< tdopen >}}
+ひょ hyo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+みゃ mya
+{{< tdclose >}}
+{{< tdopen >}}
+みゅ myu
+{{< tdclose >}}
+{{< tdopen >}}
+みょ myo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+りゃ rya
+{{< tdclose >}}
+{{< tdopen >}}
+りゅ ryu
+{{< tdclose >}}
+{{< tdopen >}}
+りょ ryo
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note that these contracted syllables are always considered to be one syllable, not two. Compare the two (totally different!) following sounds:
 

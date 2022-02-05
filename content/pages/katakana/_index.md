@@ -22,13 +22,246 @@ Jorden, Eleanor Harz. _Japanese: The Spoken Language, Part 1_. New Haven, CT: Ya
 
 Follow the links from the column headings to study that whole column, or click on each individual character. Each character page contains an image of the character and examples of words using the character. Note: the "n-" and "w-" columns are included in "r", and the "y-" column is included in "m".
 
-| [n](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n) | [w](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n) | [r](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n) | [y](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma-yo) | [m](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma-yo) | [h](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ha-ho) | [n](/resources/res-21g-01-kana-spring-2010/katakana/katakana-na-no) | [t](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ta-to) | [s](/resources/res-21g-01-kana-spring-2010/katakana/katakana-sa-so) | [k](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ka-ko) |  [](/resources/res-21g-01-kana-spring-2010/katakana/katakana-a-o)  | &nbsp; |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ン](/resources/res-21g-01-kana-spring-2010/katakana/katakana-n) | [ワ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-wa) | [ラ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra) | [ヤ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ya) | [マ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma) | [ハ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ha) | [ナ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-na) | [タ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ta) | [サ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-sa) | [カ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ka) | [ア](/resources/res-21g-01-kana-spring-2010/katakana/katakana-a) | a |
-| &nbsp; | [リ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ri) | &nbsp; | [ミ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mi) | [ヒ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-hi) | [ニ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ni) | [チ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ti-chi) | [シ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-si-shi) | [キ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ki) | [イ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-i) | i |
-| &nbsp; | [ル](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ru) | [ユ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-yu) | [ム](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mu) | [フ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-hu-fu) | [ヌ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-nu) | [ツ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-tu-tsu) | [ス](/resources/res-21g-01-kana-spring-2010/katakana/katakana-su) | [ク](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ku) | [ウ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-u) | u |
-| &nbsp; | [レ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-re) | &nbsp; | [メ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-me) | [ヘ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-he) | [ネ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ne) | [テ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-te) | [セ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-se) | [ケ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ke) | [エ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-e) | e |
-| &nbsp; | [ヲ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-w-o) | [ロ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ro) | [ヨ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-yo) | [モ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mo) | [ホ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ho) | [ノ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-no) | [ト](/resources/res-21g-01-kana-spring-2010/katakana/katakana-to) | [ソ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-so) | [コ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ko) | [オ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-o) | o 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[n](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n)
+{{< tdclose >}}
+{{< tdopen >}}
+[w](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n)
+{{< tdclose >}}
+{{< tdopen >}}
+[r](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra-n)
+{{< tdclose >}}
+{{< tdopen >}}
+[y](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma-yo)
+{{< tdclose >}}
+{{< tdopen >}}
+[m](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma-yo)
+{{< tdclose >}}
+{{< tdopen >}}
+[h](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ha-ho)
+{{< tdclose >}}
+{{< tdopen >}}
+[n](/resources/res-21g-01-kana-spring-2010/katakana/katakana-na-no)
+{{< tdclose >}}
+{{< tdopen >}}
+[t](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ta-to)
+{{< tdclose >}}
+{{< tdopen >}}
+[s](/resources/res-21g-01-kana-spring-2010/katakana/katakana-sa-so)
+{{< tdclose >}}
+{{< tdopen >}}
+[k](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ka-ko)
+{{< tdclose >}}
+{{< tdopen >}}
+ [](/resources/res-21g-01-kana-spring-2010/katakana/katakana-a-o) 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[ン](/resources/res-21g-01-kana-spring-2010/katakana/katakana-n)
+{{< tdclose >}}
+{{< tdopen >}}
+[ワ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-wa)
+{{< tdclose >}}
+{{< tdopen >}}
+[ラ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ra)
+{{< tdclose >}}
+{{< tdopen >}}
+[ヤ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ya)
+{{< tdclose >}}
+{{< tdopen >}}
+[マ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ma)
+{{< tdclose >}}
+{{< tdopen >}}
+[ハ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ha)
+{{< tdclose >}}
+{{< tdopen >}}
+[ナ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-na)
+{{< tdclose >}}
+{{< tdopen >}}
+[タ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ta)
+{{< tdclose >}}
+{{< tdopen >}}
+[サ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-sa)
+{{< tdclose >}}
+{{< tdopen >}}
+[カ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ka)
+{{< tdclose >}}
+{{< tdopen >}}
+[ア](/resources/res-21g-01-kana-spring-2010/katakana/katakana-a)
+{{< tdclose >}}
+{{< tdopen >}}
+a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[リ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ri)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[ミ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mi)
+{{< tdclose >}}
+{{< tdopen >}}
+[ヒ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-hi)
+{{< tdclose >}}
+{{< tdopen >}}
+[ニ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ni)
+{{< tdclose >}}
+{{< tdopen >}}
+[チ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ti-chi)
+{{< tdclose >}}
+{{< tdopen >}}
+[シ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-si-shi)
+{{< tdclose >}}
+{{< tdopen >}}
+[キ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ki)
+{{< tdclose >}}
+{{< tdopen >}}
+[イ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-i)
+{{< tdclose >}}
+{{< tdopen >}}
+i
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[ル](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ru)
+{{< tdclose >}}
+{{< tdopen >}}
+[ユ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-yu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ム](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mu)
+{{< tdclose >}}
+{{< tdopen >}}
+[フ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-hu-fu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ヌ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-nu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ツ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-tu-tsu)
+{{< tdclose >}}
+{{< tdopen >}}
+[ス](/resources/res-21g-01-kana-spring-2010/katakana/katakana-su)
+{{< tdclose >}}
+{{< tdopen >}}
+[ク](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ku)
+{{< tdclose >}}
+{{< tdopen >}}
+[ウ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-u)
+{{< tdclose >}}
+{{< tdopen >}}
+u
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[レ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-re)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[メ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-me)
+{{< tdclose >}}
+{{< tdopen >}}
+[ヘ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-he)
+{{< tdclose >}}
+{{< tdopen >}}
+[ネ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ne)
+{{< tdclose >}}
+{{< tdopen >}}
+[テ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-te)
+{{< tdclose >}}
+{{< tdopen >}}
+[セ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-se)
+{{< tdclose >}}
+{{< tdopen >}}
+[ケ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ke)
+{{< tdclose >}}
+{{< tdopen >}}
+[エ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-e)
+{{< tdclose >}}
+{{< tdopen >}}
+e
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[ヲ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-w-o)
+{{< tdclose >}}
+{{< tdopen >}}
+[ロ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ro)
+{{< tdclose >}}
+{{< tdopen >}}
+[ヨ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-yo)
+{{< tdclose >}}
+{{< tdopen >}}
+[モ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-mo)
+{{< tdclose >}}
+{{< tdopen >}}
+[ホ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ho)
+{{< tdclose >}}
+{{< tdopen >}}
+[ノ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-no)
+{{< tdclose >}}
+{{< tdopen >}}
+[ト](/resources/res-21g-01-kana-spring-2010/katakana/katakana-to)
+{{< tdclose >}}
+{{< tdopen >}}
+[ソ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-so)
+{{< tdclose >}}
+{{< tdopen >}}
+[コ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-ko)
+{{< tdclose >}}
+{{< tdopen >}}
+[オ](/resources/res-21g-01-kana-spring-2010/katakana/katakana-o)
+{{< tdclose >}}
+{{< tdopen >}}
+o
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "exercises" >}}{{< /anchor >}}Exercises
 --------------------------------------------------
@@ -59,13 +292,90 @@ _Note: JavaScript must be enabled to use these resources_.
 
 For further study, worksheets are available to print out.
 
-| Topics | PDF |
-| --- | --- |
-| "a" - "ko" (ア - コ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-order-a-o) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k1.pdf)) |
-| "sa" - "to" (サ - ト), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-2) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k2.pdf)) |
-| "na" - "ho" (ナ - ホ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-3) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k3.pdf)) |
-| "ma" - "yo" (マ - ヨ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-4) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k4.pdf)) |
-| "ra" - "n" (ラ - ン), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-5) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k5.pdf)) |
-| Voiced (ガ - ) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k6.pdf)) |
-| C + y + V (キ ヤ - ) | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k7.pdf)) |
-| Words & Phrases | ([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k8.pdf))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+PDF
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"a" - "ko" (ア - コ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-order-a-o)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k1.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"sa" - "to" (サ - ト), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-2)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k2.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"na" - "ho" (ナ - ホ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-3)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k3.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"ma" - "yo" (マ - ヨ), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-4)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k4.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"ra" - "n" (ラ - ン), [Stroke order](/resources/res-21g-01-kana-spring-2010/katakana/stroke-5)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k5.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Voiced (ガ - )
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k6.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C + y + V (キ ヤ - )
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k7.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Words & Phrases
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF](/resources/res-21g-01-kana-spring-2010/katakana/MITRES_21G_01S10_k8.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
