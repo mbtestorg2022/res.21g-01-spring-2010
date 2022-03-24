@@ -324,7 +324,7 @@ PDF
 "a" - "ko" (あ - こ)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h1.pdf))
+([PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h1.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +333,7 @@ PDF
 "sa" - "to" (さ - と)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h2.pdf))
+([PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h2.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ PDF
 "na" - "ho" (な - ほ)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h3.pdf))
+([PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h3.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +351,7 @@ PDF
 "ma" - "yo" (ま - よ)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h4.pdf))
+([PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h4.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ PDF
 "ra" - "n" (ら - ん)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h5.pdf))
+([PDF](/resources/res-21g-01-kana-spring-2010/hiragana/MITRES_21G_01S10_h5.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
