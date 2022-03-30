@@ -19,7 +19,7 @@ Question #28
  zya  
  gya
 
-![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-consonant-y-vowel-syllabic-n/hiragana-review-quiz-consonant-y-vowel-syllabic-n-27).
+![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the {{% resource_link "5a4e6590-92d4-f94f-f50d-13946721e6bb" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

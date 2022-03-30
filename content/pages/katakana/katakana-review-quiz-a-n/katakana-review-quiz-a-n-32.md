@@ -20,7 +20,7 @@ Question #35
  ni  
  si
 
-![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/katakana-review-quiz-a-n-33/).
+![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the {{% resource_link "4f23ad0d-0ec9-e4ee-6d2f-c295f8bf7a59" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

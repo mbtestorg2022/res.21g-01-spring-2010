@@ -20,7 +20,7 @@ Question #9
  i  
  tu
 
-![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/hiragana-review-quiz-a-to-9).
+![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the {{% resource_link "46d9aae3-c976-3f9e-9f39-2f9e11086d13" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

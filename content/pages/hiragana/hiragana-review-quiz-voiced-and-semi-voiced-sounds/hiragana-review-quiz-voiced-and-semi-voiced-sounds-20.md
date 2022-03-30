@@ -20,7 +20,7 @@ Question #22
  ba  
  de
 
-![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-voiced-and-semi-voiced-sounds/hiragana-review-quiz-voiced-and-semi-voiced-sounds-21).
+![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the {{% resource_link "bf011135-d88a-0f52-3b37-377ea036055f" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

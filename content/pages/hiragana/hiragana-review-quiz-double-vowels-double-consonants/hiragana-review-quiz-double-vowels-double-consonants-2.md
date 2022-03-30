@@ -19,7 +19,7 @@ gakusee (student)
  がくせ  
  がくせえ
 
-![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-double-vowels-double-consonants/hiragana-review-quiz-double-vowels-double-consonants-3).
+![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) Yes, that's right! On to the {{% resource_link "1b46946b-0976-b808-7be4-147653bf8acf" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

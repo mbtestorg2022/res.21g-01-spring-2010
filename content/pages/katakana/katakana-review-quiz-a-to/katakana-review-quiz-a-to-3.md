@@ -20,7 +20,7 @@ Question #5
  o  
  su
 
-![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/katakana-review-quiz-a-to-4).
+![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the {{% resource_link "3423cafb-2d06-7033-c680-eefae53e37bc" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/chigau.gif) Sorry, try again!
 

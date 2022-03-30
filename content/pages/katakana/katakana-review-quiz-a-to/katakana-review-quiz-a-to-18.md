@@ -20,7 +20,7 @@ Question #19
  ka  
  to
 
-![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/katakana-review-quiz-a-to-19).
+![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the {{% resource_link "86969d38-f9d4-11a4-8a49-88379e440296" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/chigau.gif) Sorry, try again!
 

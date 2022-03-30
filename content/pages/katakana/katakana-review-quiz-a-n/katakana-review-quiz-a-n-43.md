@@ -20,7 +20,7 @@ Question #46
  hu  
  te
 
-![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/yokudeki.gif) End of quiz! Let's go [home](/resources/res-21g-01-kana-spring-2010/katakana).
+![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/yokudeki.gif) End of quiz! Let's go {{% resource_link "c84d8de3-767d-8d3f-234b-b45d41d2ac2e" "home" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

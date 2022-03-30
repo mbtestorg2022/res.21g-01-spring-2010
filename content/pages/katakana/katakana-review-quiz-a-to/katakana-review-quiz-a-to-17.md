@@ -20,7 +20,7 @@ Question #18
  ka  
  ke
 
-![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the [next question](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/katakana-review-quiz-a-to-18).
+![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/yokudeki.gif) Yes, that's right! On to the {{% resource_link "a2a82ca0-2119-82ed-a759-f69aad4a1f8f" "next question" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/katakana/katakana-review-quiz-a-to/chigau.gif) Sorry, try again!
 

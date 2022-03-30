@@ -11,5 +11,5 @@ uid: b2320e96-fcd6-f7e6-f166-e6f9c9f9f5b4
 Listen to the sound of the word: ([MOV](http://www.archive.org/download/MITRES21F.01S10_KATAKANA_EXERCISES/word4.mov))
 
   
-\[[Back](/resources/res-21g-01-kana-spring-2010/katakana/katakana-recognition-exercise)\]  
-\[[Home](/resources/res-21g-01-kana-spring-2010/katakana)\]
+\[{{% resource_link "9f859657-a05b-2e05-a516-414b14a5e6e7" "Back" %}}\]  
+\[{{% resource_link "c84d8de3-767d-8d3f-234b-b45d41d2ac2e" "Home" %}}\]

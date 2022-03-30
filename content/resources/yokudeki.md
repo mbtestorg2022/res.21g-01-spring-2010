@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d5c651d7-fef2-8166-c376-339f697523be
 resourcetype: Image
 title: yokudeki.gif
 uid: 3c782ba4-957c-30e3-9c95-a1f475c6722e

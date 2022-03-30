@@ -20,7 +20,7 @@ Question #20
  tu  
  ka
 
-![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) End of quiz! Let's go [home](/resources/res-21g-01-kana-spring-2010/hiragana).
+![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/yokudeki.gif) End of quiz! Let's go {{% resource_link "1e31ae55-033d-5bae-d2e0-816ad12b6dea" "home" %}}.
 
 ![](/resources/res-21g-01-kana-spring-2010/hiragana/hiragana-review-quiz-a-n/chigau.gif) Sorry, try again!
 

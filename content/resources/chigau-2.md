@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 37afddb1-e520-7449-0db1-5cb4e0a943a9
 resourcetype: Image
 title: chigau.gif
 uid: a080359b-612e-f812-ba42-c5325f126d2f
